@@ -1,0 +1,6 @@
+flet>=0.28.3
+SQLAlchemy>=1.4
+# Optional / dev helpers you may need later (uncomment if required):
+# alembic>=1.8
+# python-dotenv>=1.0
+# typing-extensions>=4.0
