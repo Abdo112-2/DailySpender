@@ -1,0 +1,16 @@
+
+
+{
+    "dark":{
+            "outline":"#888888",
+            "bgcolor":"#000000",
+            "color":"white"
+        }
+    ,
+    "light":{
+            "outline" :"#bbbbbb",
+            "bgcolor":"#fefefe",
+            "color":"black"
+        }
+    
+}
